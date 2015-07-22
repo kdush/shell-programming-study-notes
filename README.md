@@ -1,4 +1,3 @@
-# shell-programming-study-notes
 <!doctype html>
 <html>
 <head>
