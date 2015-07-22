@@ -1,6 +1,8 @@
 #shell编程学习笔记
 
-####作者  *类星体* [![Smaller icon]( https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png =24x24)](https://github.com/kdush)  [![Smaller icon]( http://www.sinaimg.cn/blog/developer/wiki/LOGO_24x24.png "Title here")](http://weibo.com/u/1080552231) 
+####作者  *类星体* 
+[![Smaller icon]( https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png =24x24)](https://github.com/kdush)  
+[![Smaller icon]( http://www.sinaimg.cn/blog/developer/wiki/LOGO_24x24.png "Title here")](http://weibo.com/u/1080552231) 
 
 
 ##变量
