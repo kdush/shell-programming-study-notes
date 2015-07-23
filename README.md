@@ -1,6 +1,6 @@
 #shell编程学习笔记
 
-####作者  *类星体*  
+####Authors  *类星体*  
 [![Smaller icon]( http://7xkjuj.com1.z0.glb.clouddn.com/logosGitHub-Mark-32px.png "Title here")](https://github.com/kdush)   [![Smaller icon]( http://www.sinaimg.cn/blog/developer/wiki/LOGO_32x32.png "Title here")](http://weibo.com/u/1080552231) 
 
 
@@ -20,7 +20,7 @@ b=$a
  
 ```
 ####变量取值
-shell里也有特殊字符。常见的有美元符号 $ 反斜线 \ 和单引号 '' 与双引号 ""。
+普通的变量赋值和输出
 
 ```
 c=$a+$b
@@ -31,6 +31,8 @@ echo $c
 ```
 123+123
 ```
+shell里也有特殊字符。常见的有美元符号 $ 反斜线 \ 和单引号 '' 与双引号 ""
+
 由双引号括起来的字符，除$，倒引号 ` 和反斜线 \ 仍保留其特殊功能外，其余字符均作为普通字符对待
 
 由倒引号括起来的字符串被shell解释为命令行，在执行时，shell会先执行该命令，并以它的标准输出结果取代整个引号部分。
@@ -145,5 +147,5 @@ eq 等于  ==
 neq 不等于  !=
 ```
 
-###数字比较
 
+PS:又去看了鸟哥的Linux私房菜.在学习一下再继续
